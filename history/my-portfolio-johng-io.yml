@@ -1,7 +1,7 @@
 url: https://komodo.johng.io
-status: up
-code: 200
+status: down
+code: 500
 responseTime: 15
-lastUpdated: 2025-11-17T23:04:10.913Z
+lastUpdated: 2025-11-18T12:07:27.544Z
 startTime: 2025-08-27T00:58:46.741Z
 generator: Upptime <https://github.com/upptime/upptime>
