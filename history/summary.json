@@ -22,18 +22,20 @@
     "url": "https://game-maps.johng.io",
     "icon": "https://icons.duckduckgo.com/ip3/game-maps.johng.io.ico",
     "slug": "game-maps-game-maps-johng-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 281,
-    "timeDay": 191,
-    "timeWeek": 223,
+    "timeDay": 212,
+    "timeWeek": 224,
     "timeMonth": 244,
     "timeYear": 281,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Internal Domain Name Calculator for TrueCharts Apps (internal-domain-name-calculator-for-truecharts-apps.johng.io)",
@@ -59,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/komodo.johng.io.ico",
     "slug": "komodo-mods-for-komoot-komodo-johng-io",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.94%",
+    "uptimeDay": "95.40%",
+    "uptimeWeek": "99.34%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.94%",
     "time": 265,
     "timeDay": 147,
     "timeWeek": 220,
     "timeMonth": 232,
     "timeYear": 265,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 66
     }
   },
   {
@@ -78,18 +80,20 @@
     "url": "https://mergist.johng.io",
     "icon": "https://icons.duckduckgo.com/ip3/mergist.johng.io.ico",
     "slug": "mergist-online-pdf-merger-mergist-johng-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 284,
-    "timeDay": 127,
-    "timeWeek": 289,
-    "timeMonth": 250,
-    "timeYear": 284,
-    "dailyMinutesDown": {}
+    "time": 282,
+    "timeDay": 118,
+    "timeWeek": 266,
+    "timeMonth": 246,
+    "timeYear": 282,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "My Portfolio (johng.io)",
@@ -97,18 +101,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/komodo.johng.io.ico",
     "slug": "my-portfolio-johng-io",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.94%",
+    "uptimeDay": "95.40%",
+    "uptimeWeek": "99.34%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.94%",
     "time": 36,
     "timeDay": 15,
     "timeWeek": 23,
     "timeMonth": 27,
     "timeYear": 36,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 66
     }
   },
   {
@@ -117,18 +121,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/l.johng.io.ico",
     "slug": "short-end-url-shortener-l-johng-io",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.94%",
+    "uptimeDay": "95.40%",
+    "uptimeWeek": "99.34%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.94%",
     "time": 259,
     "timeDay": 212,
     "timeWeek": 248,
     "timeMonth": 241,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 66
     }
   },
   {
@@ -136,17 +140,19 @@
     "url": "https://tally.johng.io",
     "icon": "https://icons.duckduckgo.com/ip3/tally.johng.io.ico",
     "slug": "tally-word-counter-tally-johng-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 262,
-    "timeDay": 166,
-    "timeWeek": 178,
-    "timeMonth": 194,
-    "timeYear": 262,
-    "dailyMinutesDown": {}
+    "time": 260,
+    "timeDay": 136,
+    "timeWeek": 169,
+    "timeMonth": 192,
+    "timeYear": 260,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   }
 ]
