@@ -1,7 +1,7 @@
 url: https://tally.johng.io
-status: up
-code: 200
-responseTime: 166
-lastUpdated: 2025-11-17T23:04:11.580Z
+status: down
+code: 500
+responseTime: 105
+lastUpdated: 2025-11-18T13:13:35.867Z
 startTime: 2025-08-27T00:58:47.627Z
 generator: Upptime <https://github.com/upptime/upptime>
