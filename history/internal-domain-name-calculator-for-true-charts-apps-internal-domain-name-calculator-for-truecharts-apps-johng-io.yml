@@ -1,7 +1,7 @@
 url: https://internal-domain-name-calculator-for-truecharts-apps.johng.io
-status: up
-code: 200
-responseTime: 231
-lastUpdated: 2025-11-17T23:04:10.106Z
+status: down
+code: 500
+responseTime: 199
+lastUpdated: 2025-11-18T12:07:24.120Z
 startTime: 2025-08-27T00:58:44.974Z
 generator: Upptime <https://github.com/upptime/upptime>
