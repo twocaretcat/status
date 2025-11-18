@@ -1,7 +1,7 @@
 url: https://mergist.johng.io
-status: up
-code: 200
-responseTime: 127
-lastUpdated: 2025-11-17T23:04:10.711Z
+status: down
+code: 500
+responseTime: 108
+lastUpdated: 2025-11-18T13:13:33.304Z
 startTime: 2025-08-27T00:58:46.128Z
 generator: Upptime <https://github.com/upptime/upptime>
