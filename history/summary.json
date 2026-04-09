@@ -61,18 +61,19 @@
     "url": "https://komodo.johng.io",
     "icon": "https://icons.duckduckgo.com/ip3/komodo.johng.io.ico",
     "slug": "komodo-mods-for-komoot-komodo-johng-io",
-    "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
+    "uptimeYear": "99.94%",
     "time": 294,
     "timeDay": 207,
     "timeWeek": 196,
     "timeMonth": 204,
     "timeYear": 294,
     "dailyMinutesDown": {
+      "2026-04-09": 2,
       "2025-11-18": 178
     }
   },
@@ -101,9 +102,9 @@
     "url": "https://komodo.johng.io",
     "icon": "https://icons.duckduckgo.com/ip3/komodo.johng.io.ico",
     "slug": "my-portfolio-johng-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -113,6 +114,7 @@
     "timeMonth": 24,
     "timeYear": 107,
     "dailyMinutesDown": {
+      "2026-04-09": 0,
       "2025-11-18": 178
     }
   },
