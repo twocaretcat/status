@@ -22,10 +22,10 @@
     "url": "https://game-maps.johng.io",
     "icon": "https://icons.duckduckgo.com/ip3/game-maps.johng.io.ico",
     "slug": "game-maps-game-maps-johng-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 249,
@@ -34,6 +34,7 @@
     "timeMonth": 199,
     "timeYear": 249,
     "dailyMinutesDown": {
+      "2026-04-20": 2,
       "2026-01-27": 60,
       "2025-11-18": 112
     }
@@ -62,11 +63,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/komodo.johng.io.ico",
     "slug": "komodo-mods-for-komoot-komodo-johng-io",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
-    "uptimeYear": "99.91%",
+    "uptimeYear": "99.92%",
     "time": 289,
     "timeDay": 269,
     "timeWeek": 201,
@@ -123,9 +124,9 @@
     "url": "https://l.johng.io",
     "icon": "https://icons.duckduckgo.com/ip3/l.johng.io.ico",
     "slug": "short-end-url-shortener-l-johng-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
@@ -135,6 +136,7 @@
     "timeMonth": 179,
     "timeYear": 235,
     "dailyMinutesDown": {
+      "2026-04-20": 0,
       "2025-11-18": 237
     }
   },
