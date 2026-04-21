@@ -124,9 +124,9 @@
     "url": "https://l.johng.io",
     "icon": "https://icons.duckduckgo.com/ip3/l.johng.io.ico",
     "slug": "short-end-url-shortener-l-johng-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "96.18%",
+    "uptimeDay": "96.17%",
     "uptimeWeek": "99.45%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.91%",
@@ -136,6 +136,7 @@
     "timeMonth": 180,
     "timeYear": 235,
     "dailyMinutesDown": {
+      "2026-04-21": 0,
       "2026-04-20": 55,
       "2025-11-18": 237
     }
