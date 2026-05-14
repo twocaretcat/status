@@ -5,8 +5,6 @@ sites:
     url: https://168421.xyz
   - name: Game Maps (game-maps.johng.io)
     url: https://game-maps.johng.io
-  - name: Internal Domain Name Calculator for TrueCharts Apps (internal-domain-name-calculator-for-truecharts-apps.johng.io)
-    url: https://internal-domain-name-calculator-for-truecharts-apps.johng.io
   - name: Komodo - Mods for Komoot (komodo.johng.io)
     url: https://komodo.johng.io
   - name: Mergist - Online PDF Merger (mergist.johng.io)
@@ -17,6 +15,8 @@ sites:
     url: https://l.johng.io
   - name: Tally - Word Counter (tally.johng.io)
     url: https://tally.johng.io
+  - name: TrueCharts Domain Calculator (truecharts-domain-calc.johng.io)
+    url: https://truecharts-domain-calc.johng.io
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
