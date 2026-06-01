@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 224,
-    "timeDay": 126,
-    "timeWeek": 183,
-    "timeMonth": 181,
-    "timeYear": 224,
+    "time": 225,
+    "timeDay": 453,
+    "timeWeek": 223,
+    "timeMonth": 190,
+    "timeYear": 225,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 148,
-    "timeDay": 79,
-    "timeWeek": 143,
-    "timeMonth": 148,
-    "timeYear": 148,
+    "time": 151,
+    "timeDay": 213,
+    "timeWeek": 155,
+    "timeMonth": 151,
+    "timeYear": 151,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 237,
-    "timeDay": 233,
-    "timeWeek": 136,
-    "timeMonth": 161,
+    "timeDay": 212,
+    "timeWeek": 154,
+    "timeMonth": 162,
     "timeYear": 237,
     "dailyMinutesDown": {
       "2025-11-18": 112,
@@ -69,8 +69,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 271,
-    "timeDay": 266,
-    "timeWeek": 181,
+    "timeDay": 201,
+    "timeWeek": 193,
     "timeMonth": 165,
     "timeYear": 271,
     "dailyMinutesDown": {
@@ -83,19 +83,20 @@
     "url": "https://mergist.johng.io",
     "icon": "https://icons.duckduckgo.com/ip3/mergist.johng.io.ico",
     "slug": "mergist-online-pdf-merger-mergist-johng-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 247,
-    "timeDay": 263,
-    "timeWeek": 147,
-    "timeMonth": 182,
-    "timeYear": 247,
+    "time": 246,
+    "timeDay": 172,
+    "timeWeek": 160,
+    "timeMonth": 181,
+    "timeYear": 246,
     "dailyMinutesDown": {
-      "2025-11-18": 112
+      "2025-11-18": 112,
+      "2026-06-01": 0
     }
   },
   {
@@ -110,8 +111,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 94,
-    "timeDay": 54,
-    "timeWeek": 57,
+    "timeDay": 45,
+    "timeWeek": 54,
     "timeMonth": 53,
     "timeYear": 94,
     "dailyMinutesDown": {
@@ -124,21 +125,22 @@
     "url": "https://l.johng.io",
     "icon": "https://icons.duckduckgo.com/ip3/l.johng.io.ico",
     "slug": "short-end-url-shortener-l-johng-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 224,
-    "timeDay": 251,
-    "timeWeek": 227,
-    "timeMonth": 157,
+    "timeDay": 151,
+    "timeWeek": 225,
+    "timeMonth": 158,
     "timeYear": 224,
     "dailyMinutesDown": {
       "2025-11-18": 237,
       "2026-04-20": 55,
-      "2026-04-21": 56
+      "2026-04-21": 56,
+      "2026-06-01": 0
     }
   },
   {
@@ -153,9 +155,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 203,
-    "timeDay": 81,
-    "timeWeek": 109,
-    "timeMonth": 124,
+    "timeDay": 183,
+    "timeWeek": 124,
+    "timeMonth": 126,
     "timeYear": 203,
     "dailyMinutesDown": {
       "2025-11-18": 112
@@ -172,11 +174,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 158,
-    "timeDay": 95,
-    "timeWeek": 134,
-    "timeMonth": 158,
-    "timeYear": 158,
+    "time": 160,
+    "timeDay": 209,
+    "timeWeek": 148,
+    "timeMonth": 160,
+    "timeYear": 160,
     "dailyMinutesDown": {}
   }
 ]
