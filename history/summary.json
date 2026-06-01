@@ -40,21 +40,22 @@
     "url": "https://game-maps.johng.io",
     "icon": "https://icons.duckduckgo.com/ip3/game-maps.johng.io.ico",
     "slug": "game-maps-game-maps-johng-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 237,
-    "timeDay": 212,
-    "timeWeek": 154,
-    "timeMonth": 162,
+    "timeDay": 130,
+    "timeWeek": 141,
+    "timeMonth": 159,
     "timeYear": 237,
     "dailyMinutesDown": {
       "2025-11-18": 112,
       "2026-01-27": 60,
-      "2026-04-20": 57
+      "2026-04-20": 57,
+      "2026-06-01": 0
     }
   },
   {
@@ -84,11 +85,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mergist.johng.io.ico",
     "slug": "mergist-online-pdf-merger-mergist-johng-io",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "98.06%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.96%",
+    "uptimeDay": "95.88%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.96%",
     "time": 246,
     "timeDay": 172,
     "timeWeek": 160,
@@ -96,7 +97,7 @@
     "timeYear": 246,
     "dailyMinutesDown": {
       "2025-11-18": 112,
-      "2026-06-01": 28
+      "2026-06-01": 59
     }
   },
   {
@@ -126,11 +127,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/l.johng.io.ico",
     "slug": "short-end-url-shortener-l-johng-io",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "98.07%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.90%",
+    "uptimeDay": "95.89%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.90%",
     "time": 224,
     "timeDay": 151,
     "timeWeek": 225,
@@ -140,7 +141,7 @@
       "2025-11-18": 237,
       "2026-04-20": 55,
       "2026-04-21": 56,
-      "2026-06-01": 28
+      "2026-06-01": 59
     }
   },
   {
