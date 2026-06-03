@@ -5,6 +5,8 @@ sites:
     url: https://168421.xyz
   - name: Astro Snapshot (astro-snapshot.johng.io)
     url: https://astro-snapshot.johng.io
+  - name: Caret Labs (caretlabs.co)
+    url: https://caretlabs.co
   - name: Game Maps (game-maps.johng.io)
     url: https://game-maps.johng.io
   - name: Komodo - Mods for Komoot (komodo.johng.io)
