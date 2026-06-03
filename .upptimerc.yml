@@ -11,8 +11,8 @@ sites:
     url: https://komodo.johng.io
   - name: Mergist - Online PDF Merger (mergist.johng.io)
     url: https://mergist.johng.io
-  - name: My Portfolio (johng.io)
-    url: https://komodo.johng.io
+  - name: Portfolio (johng.io)
+    url: https://johng.io
   - name: Short End - URL Shortener (l.johng.io)
     url: https://l.johng.io
   - name: Tally - Word Counter (tally.johng.io)
@@ -34,6 +34,6 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 workflowSchedule:
-  uptime: "0 * * * *"
+  uptime: '0 * * * *'
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
