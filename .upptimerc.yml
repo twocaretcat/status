@@ -30,6 +30,7 @@ status-website:
   name: Upptime
   introTitle: Status
   introMessage: Uptime and status monitoring for my sites, powered by [Upptime](https://upptime.js.org/).
+  theme: dark
   navbar:
     - title: Status
       href: /
