@@ -3,24 +3,34 @@ repo: status # The name of this repository
 sites:
   - name: 168421 (168421.xyz)
     url: https://168421.xyz
+    slug: '168421'
   - name: Astro Snapshot (astro-snapshot.johng.io)
     url: https://astro-snapshot.johng.io
+    slug: astro-snapshot
   - name: Caret Labs (caretlabs.co)
     url: https://caretlabs.co
+    slug: caret-labs
   - name: Game Maps (game-maps.johng.io)
     url: https://game-maps.johng.io
+    slug: game-maps
   - name: Komodo - Mods for Komoot (komodo.johng.io)
     url: https://komodo.johng.io
+    slug: komodo
   - name: Mergist - Online PDF Merger (mergist.johng.io)
     url: https://mergist.johng.io
+    slug: mergist
   - name: Portfolio (johng.io)
     url: https://johng.io
+    slug: portfolio
   - name: Short End - URL Shortener (l.johng.io)
     url: https://l.johng.io
+    slug: short-end
   - name: Tally - Word Counter (tally.johng.io)
     url: https://tally.johng.io
+    slug: tally
   - name: TrueCharts Domain Calculator (truecharts-domain-calc.johng.io)
     url: https://truecharts-domain-calc.johng.io
+    slug: truecharts-domain-calc
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
