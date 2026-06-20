@@ -7,6 +7,9 @@ sites:
   - name: Astro Snapshot (astro-snapshot.johng.io)
     url: https://astro-snapshot.johng.io
     slug: astro-snapshot
+  - name: Caret Collective (caretcollective.cc)
+    url: https://caretcollective.cc
+    slug: caret-collective
   - name: Caret Labs (caretlabs.co)
     url: https://caretlabs.co
     slug: caret-labs
